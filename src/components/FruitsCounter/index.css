@@ -1,0 +1,44 @@
+.container {
+  background-color: #ffd569;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 80px;
+  border-radius: 10px;
+}
+
+.image1 {
+  height: 100px;
+  width: 100px;
+  margin-right: 50px;
+}
+.mangooo1 {
+  background-color: #007bff;
+  height: 40px;
+  width: 120px;
+  border-width: 0px;
+  border-radius: 8px;
+  margin-right: 35px;
+  color: white;
+}
+.mangooo2 {
+  background-color: #007bff;
+  height: 40px;
+  width: 120px;
+  border-width: 0px;
+  border-radius: 8px;
+  color: white;
+}
+.span1 {
+  color: #ffd569;
+}
